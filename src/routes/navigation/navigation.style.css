@@ -1,0 +1,30 @@
+.container-list{
+    width: 450px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.title{
+    text-align: center;
+    color: #B5C18E;
+    padding-top: 30px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 10px 100px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.project-menu{
+    background-color: #94A684;
+}
+
+.project-menu:hover{
+    background-color: #AEC3AE;
+}
